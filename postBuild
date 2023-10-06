@@ -1,2 +1,2 @@
 npm install -g --unsafe-perm ijavascript
-ijsinstall --install=global
+ijsinstall --install=local
